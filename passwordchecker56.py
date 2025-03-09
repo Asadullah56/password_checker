@@ -11,13 +11,13 @@ st.markdown("""
     .stTextInput {width: 60% !important; margin: auto;}
     .stButton button {
         width: 50%; 
-        background-color: #4CAF50;
+        background-color: #007BFF;
         color: white; 
         font-size: 18px;
         border-radius: 8px;
         padding: 10px;
     }                
-    .stButton button:hover {background-color: #45a049;}   
+    .stButton button:hover {background-color: #6F42C1;}   
 </style>            
 """, unsafe_allow_html=True)
 
